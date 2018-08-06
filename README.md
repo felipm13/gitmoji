@@ -1,0 +1,2 @@
+# gitmoji
+Commit message emoji
